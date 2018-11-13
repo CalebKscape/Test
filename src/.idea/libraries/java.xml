@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/akka/akka-actor-testkit-typed/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-actor-tests/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-actor-typed-tests/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-actor/src/main/java" />
+      <root url="file://$USER_HOME$/akka/akka-actor/src/main/scala" />
+      <root url="file://$USER_HOME$/akka/akka-camel/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-cluster-metrics/src/main/java" />
+      <root url="file://$USER_HOME$/akka/akka-cluster-sharding-typed/src/main/java" />
+      <root url="file://$USER_HOME$/akka/akka-cluster-sharding-typed/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-cluster-sharding/src/main/java" />
+      <root url="file://$USER_HOME$/akka/akka-cluster-tools/src/main/java" />
+      <root url="file://$USER_HOME$/akka/akka-cluster-tools/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-cluster-typed/src/main/java" />
+      <root url="file://$USER_HOME$/akka/akka-cluster-typed/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-cluster/src/main/java" />
+      <root url="file://$USER_HOME$/akka/akka-cluster/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-contrib/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-distributed-data/src/main/java" />
+      <root url="file://$USER_HOME$/akka/akka-distributed-data/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-docs/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-multi-node-testkit/src/main/java" />
+      <root url="file://$USER_HOME$/akka/akka-persistence-query/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-persistence-typed/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-persistence/src/main/java" />
+      <root url="file://$USER_HOME$/akka/akka-persistence/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-protobuf/src/main/java" />
+      <root url="file://$USER_HOME$/akka/akka-remote-tests/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-remote/src/main/java" />
+      <root url="file://$USER_HOME$/akka/akka-remote/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-stream-tests/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-stream-tests/src/test/java-jdk9-only" />
+      <root url="file://$USER_HOME$/akka/akka-stream-typed/src/test/java" />
+      <root url="file://$USER_HOME$/akka/akka-stream/src/main/java" />
+      <root url="file://$USER_HOME$/akka/akka-stream/src/main/java-jdk-9" />
+      <root url="file://$USER_HOME$/akka/akka-testkit/src/main/java" />
+      <root url="file://$USER_HOME$/akka/akka-testkit/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

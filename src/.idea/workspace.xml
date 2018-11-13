@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0971a3d8-15a9-4f3e-99b7-a007dd639a70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../raspiyuvJava/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../raspiyuvJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../raspiyuvJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../raspiyuvJava/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../raspiyuvJava/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../raspiyuvJava/RaspiyuvJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../raspiyuvJava/src/com/RaspiyuvTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../raspiyuvJava/src/visionPrototype/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/modules/test-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/modules/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/config-classes/$24bff229f32a243750c4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/config-classes/$24bff229f32a243750c4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/config-classes/$24bff229f32a243750c4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/config-classes/$53bdb5255d99f258959d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/config-classes/$53bdb5255d99f258959d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/config-classes/$53bdb5255d99f258959d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/config-classes/$ae92c6cba60842115f54$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/config-classes/$ae92c6cba60842115f54.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/config-classes/$ae92c6cba60842115f54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/default/test-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/default/test-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-test-build-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-test-build-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-test-build-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-test-build-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-test-build-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-test-build-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-test-build-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-test-build-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-test-build-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-test-build-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-test-build-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/$global/$global/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/compile/compile/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/project/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/main/scala/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/test1.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/default/test$sources/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/default/test$sources/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/default/test_2.12/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/default/test_2.12/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test$sources-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test$sources-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test$sources-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test$sources-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test$sources-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test$sources-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test$sources-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test$sources-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test$sources-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test$sources-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test$sources-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test_2.12-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test_2.12-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test_2.12-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test_2.12-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test_2.12-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test_2.12-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test_2.12-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test_2.12-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test_2.12-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test_2.12-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/default-test_2.12-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_6_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../vision-prototype/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_6_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/.idea/modules/vision-prototype.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../vision-prototype/.idea/modules/vision-prototype.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../vision-prototype/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/config-classes/$0b30a84f1c7a37edd152$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/config-classes/$0b30a84f1c7a37edd152.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/config-classes/$0b30a84f1c7a37edd152.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/config-classes/$a3291997c8f3458c0e39$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/config-classes/$a3291997c8f3458c0e39.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/config-classes/$a3291997c8f3458c0e39.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/config-classes/$ccebd0da634bce242878$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/config-classes/$ccebd0da634bce242878.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/config-classes/$ccebd0da634bce242878.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/config-classes/$e87f26a436ba88031c50$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/config-classes/$e87f26a436ba88031c50.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/config-classes/$e87f26a436ba88031c50.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/default/vision-prototype-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/default/vision-prototype-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-vision-prototype-build-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-vision-prototype-build-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-vision-prototype-build-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-vision-prototype-build-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-vision-prototype-build-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-vision-prototype-build-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-vision-prototype-build-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-vision-prototype-build-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-vision-prototype-build-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-vision-prototype-build-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-vision-prototype-build-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/$global/$global/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/compile/compile/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/project/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/default/vision-prototype$sources/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/default/vision-prototype$sources/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/default/vision-prototype_2.12/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/default/vision-prototype_2.12/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype$sources-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype$sources-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype$sources-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype$sources-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype$sources-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype$sources-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype$sources-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype$sources-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype$sources-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype$sources-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype$sources-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype_2.12-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype_2.12-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype_2.12-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype_2.12-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype_2.12-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype_2.12-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype_2.12-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype_2.12-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype_2.12-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype_2.12-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/default-vision-prototype_2.12-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vision-prototype/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1392442838">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/kscape/vision/ShootStill.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/com/kscape/vision/ShootStill.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2177" />
+    <option name="y" value="131" />
+    <option name="width" value="1539" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kscape" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kscape" type="462c0819:PsiDirectoryNode" />
+              <item name="vision" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jrpicam-1.1.1-release/lib/jrpicam-1.1.1.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/demo-akka-http-scala" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0971a3d8-15a9-4f3e-99b7-a007dd639a70" name="Default Changelist" comment="" />
+      <created>1542131443886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542131443886</updated>
+      <workItem from="1542131445550" duration="833000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="833000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2177" y="131" width="1539" height="1000" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494929" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3298122" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/com/kscape/vision/ShootStill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>src</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
